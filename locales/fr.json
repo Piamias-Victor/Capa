@@ -1,0 +1,27 @@
+{
+  "facing": {
+    "title": "Facing du {date}",
+    "test": "Ceci est un test",
+    "new": {
+      "title": "Nouveau facing"
+    }
+  },
+  "table": {
+    "facing": {
+      "cip7": "cip7",
+      "cip13": "cip13",
+      "designation": "Designation",
+      "facingStatus": "Resultat Facing"
+    }
+  },
+  "facingStatus": {
+    "OK": "Facing OK",
+    "ToIncrease": "Facing à augmenter",
+    "ToDecrease": "Facing à diminuer"
+  },
+  "filters": {
+    "search": {
+      "placeholder": "Rechercher"
+    }
+  }
+}

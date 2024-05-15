@@ -1,0 +1,11 @@
+.apexcharts-yaxis-texts-g > text {
+  @apply fill-base-content #{!important};
+}
+
+.apexcharts-datalabels-group > text {
+  @apply fill-base-content #{!important};
+}
+
+.apexcharts-legend-text {
+  @apply text-base-content #{!important};
+}
